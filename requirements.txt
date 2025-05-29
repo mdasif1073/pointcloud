@@ -1,0 +1,8 @@
+streamlit==1.32.0
+torch==2.2.1
+torchvision==0.17.1
+numpy==1.26.0
+matplotlib==3.8.0
+pillow==10.1.0
+open3d==0.17.0
+nest-asyncio==1.6.0
